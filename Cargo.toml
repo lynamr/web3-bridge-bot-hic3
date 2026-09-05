@@ -1,0 +1,9 @@
+[package]
+name = "web3_bridge_bot_hic3"
+version = "0.1.50"
+edition = "2021"
+description = "Utility scaffold — tag cd345a70"
+
+[dependencies]
+serde = { version = "1", features = ["derive"] }
+serde_yaml = "0.9"
